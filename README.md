@@ -1,4 +1,4 @@
-# guidedia
+# GUIDE DIA
 Guia de Dia (Software)
 
 Visita nuestro sitio oficial:
